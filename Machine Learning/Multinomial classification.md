@@ -2,11 +2,15 @@
 
 여러개의 클래스를 가지고 있는것.
 
-![Multinomial classification2](../image/Multinomial classification2.png)
+
+![Multinomial classification2](../image/Multinomial_classification2.png)
+
 
 를 밑의 사진처럼 매트릭스로 가능함.
 
-![Multinomial classification](../image/Multinomial classification.png)
+
+![Multinomial classification](../image/Multinomial_classification.png)
+
 
 S => sigmoid 함수를 써서 0~1사이의 값으로 나타내길 원함. 이것을 해주는게 **softmax**
 
@@ -18,7 +22,7 @@ S => sigmoid 함수를 써서 0~1사이의 값으로 나타내길 원함. 이것
 
 	값이 맞으면 작은값 틀리면 큰값
 	
-![cross-entropy cost function](../image/cross-entropy cost function.png)
+![cross-entropy cost function](../image/cross-entropy_cost_function.png)
 
 
 #### one-hot 인코딩
